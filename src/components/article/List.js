@@ -11,7 +11,6 @@ class List extends PureComponent {
         return (
             <div>
                 <ArticleList articles = {articles}/>
-                <div>Загрузить еще</div>
             </div>
         )
     }
