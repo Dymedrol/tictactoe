@@ -1,7 +1,4 @@
 import React, {PureComponent} from 'react'
-// import articles from './fixtures'
-
-// console.log(articles);
 
 class Article extends PureComponent {
     constructor(props) {
